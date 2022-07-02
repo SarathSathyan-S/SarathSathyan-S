@@ -1,3 +1,3 @@
 - 👋 Hi, I’m Sarath
-- 👀 I’m interested in Frontend Development
-- 🌱 I’m currently learning React
+- 👀 I’m interested in Data Science
+- 🌱 I’m currently learning python
